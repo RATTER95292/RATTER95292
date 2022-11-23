@@ -21,7 +21,7 @@
 
 ### 👨‍💻 &nbsp;About Me :
 
-My name is Artem Ryabov and I am an android developer <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30"> from Russia .
+My name is Artem Ryabov and I am an android developer from Russia .
 
 - 🔭 I'm working on android apps
 - 🔍 Exploring Technical Content Writing.
@@ -29,16 +29,17 @@ My name is Artem Ryabov and I am an android developer <img src="https://media.gi
 
 
 ### 🛠 &nbsp;Languages and Tools :
-<div>
+
+<div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Python" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" title="Java" alt="Kotlin" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Java" alt="Kotlin" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Java" alt="Kotlin" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" title="Kotlin" alt="Kotlin" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="Kotlin" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="Kotlin" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Java" alt="Kotlin" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Java" alt="Kotlin" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Java" alt="Kotlin" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="Kotlin" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="lua" alt="Kotlin" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="GO" alt="Kotlin" width="60" height="60"/>&nbsp;
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="С" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="С++" width="60" height="60"/>&nbsp;

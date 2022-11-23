@@ -24,9 +24,9 @@
 My name is Artem Ryabov and I am an android developer <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30"> from Russia .
 
 - 🔭 I'm working on android apps
-- 🌱 Exploring Technical Content Writing.
+- 🔍 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://mail.ru/)
 
 
 ### 🛠 &nbsp;Languages and Tools :
